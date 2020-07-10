@@ -12,12 +12,6 @@ It is different from the original XXTEA encryption algorithm. It encrypts and de
 
 In addition to providing the API of Byte[] encryption and decryption, it also provides some methods to handle String and Base64 encode.
 
-## Installation
-
-```sh
-git clone https://github.com/xxtea/xxtea-dotnet.git
-```
-
 ## Usage
 
 ```csharp
